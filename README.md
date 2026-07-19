@@ -30,7 +30,7 @@ assets/js/lumina.js        Dados dos exames, tema, WhatsApp, agendamento, formul
 - Domínio sugerido: `imagemlumina.com.br` (ajuste sitemap.xml e robots.txt com o domínio final).
 
 ## O QUE PREENCHER ANTES DE PUBLICAR
-1. **WhatsApp** — já configurado com o número (16) 98170-3277 em `assets/js/lumina.js` (`wa:'5516981703277'`). Quando migrar para um número business, basta trocar essa linha.
+1. **WhatsApp** — já configurado com o número (16) 98170-3277 em `assets/js/lumina.js` (`wa:'5514998066466'`). Quando migrar para um número business, basta trocar essa linha.
 2. **Identificação legal (obrigatório — CFM 2.336/2023)** — no rodapé de todas as páginas: CRM do estabelecimento + Diretor Técnico Médico (CRM + RQE). Está em cada `.html` (bloco `<footer>`).
 3. **Endereço, CEP e horários** — em `contato.html`, `index.html` (JSON-LD) e rodapés.
 4. **Agendamento online (Calendly)** — em `assets/js/lumina.js`, linha `calendlyUrl:''` → cole a URL do seu evento Calendly. Veja a seção "Agendamento online" abaixo.

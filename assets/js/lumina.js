@@ -1,6 +1,6 @@
 function lumina(){
  return {
-  wa:'5516981703277',  /* WhatsApp da clínica (pessoal por enquanto). Trocar quando tiver o número business. */
+  wa:'5514998066466',  /* WhatsApp Business da clínica. */
   calendlyUrl:'',      /* <-- COLE aqui a URL do seu evento Calendly (ex.: https://calendly.com/clinica-lumina/exame). Deixe vazio para usar o WhatsApp. */
   crmWebhookUrl:'',    /* <-- URL que recebe os leads (Google Apps Script hoje; troque por Zapier/Make/CRM quando decidir a ferramenta). Ver TUTORIAL-PLANILHA.md */
   dark:false, menu:false, open:false, query:'', area:'Todos', picked:null, modal:null, openFaq:0, showFab:false, enviado:false,
